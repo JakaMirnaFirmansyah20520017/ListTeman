@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836732219385",
+    "firebase_url": "https://listteman.firebaseio.com",
+    "project_id": "listteman",
+    "storage_bucket": "listteman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836732219385:android:fe6fd12af16b9726969728",
+        "android_client_info": {
+          "package_name": "com.example.listteman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836732219385-jqrh5j8durp70tgrgth66th88brl3akk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJlyPKO-b24Mq7eI8RycFpKlLeoM3wQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836732219385-jqrh5j8durp70tgrgth66th88brl3akk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
